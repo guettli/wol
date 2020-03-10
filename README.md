@@ -14,6 +14,8 @@
 
 # 2018 
 
+* [Things which are not solved (Software Tools)](Things which are not solved (Software Tools))
+
 # 2017
 
 * [Programming Guidelines](https://github.com/guettli/programming-guidelines)
