@@ -9,10 +9,9 @@
 # 2019
 
 * [Deadends of Information Technology](https://github.com/guettli/deadends-of-it)
+* [N days later self-management method](https://github.com/guettli/n-days-later-method)
 
 # 2018 
-
-* [N days later self-management method](https://github.com/guettli/n-days-later-method)
 
 # 2017
 
