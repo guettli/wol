@@ -2,7 +2,7 @@
 
 
 # 2020
-
+* [Desktop Tips and Tricks](https://github.com/guettli/desktop-tips-and-tricks)
 * [IUA: If unsure ask ... An alternative to explicit Responsiblities](https://github.com/guettli/IUA)
 * [Passive protocol of thoughts. A mindfulness exercise.](https://github.com/guettli/passive-protocol-of-thoughts)
 
