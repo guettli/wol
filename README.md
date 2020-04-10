@@ -6,6 +6,7 @@
 * [Desktop Tips and Tricks](https://github.com/guettli/desktop-tips-and-tricks)
 * [IUA: If unsure ask ... An alternative to explicit Responsiblities](https://github.com/guettli/IUA)
 * [Passive protocol of thoughts. A mindfulness exercise.](https://github.com/guettli/passive-protocol-of-thoughts)
+* [List of Feedback Loops](https://github.com/guettli/list-of-feedback-loops)
 
 # 2019
 * [ReqDevOp at tbz-pariv.de](https://github.com/ChemnitzerWebDevs/slides/blob/master/2019/01-January/22-reqdevop-at-tbzpariv.md)
