@@ -30,6 +30,7 @@
 * [Usability](https://github.com/guettli/usability) Screenshots and anecdotes where software made me think. Thinking hurts - I want to avoid it.
 * [Why I like Django and why I like SAP](https://github.com/guettli/why-i-like-django-and-sap) Comparing two things, you can't compare.
 * [List of responsibilities for servers](https://github.com/guettli/server-responsibilities)
+* [name2type mapping (Python)](https://github.com/guettli/python-name2type-mapping)
 
 # 2017
 * [Why I like PyCharm](https://github.com/guettli/why-i-like-pycharm)
