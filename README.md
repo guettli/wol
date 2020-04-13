@@ -28,7 +28,15 @@
 * [Things which are not solved (Software Tools)](https://github.com/guettli/not-solved-yet)
 * [Programming Guidelines](https://github.com/guettli/programming-guidelines)
 * [Usability](https://github.com/guettli/usability) Screenshots and anecdotes where software made me think. Thinking hurts - I want to avoid it.
+* [Why I like Django and why I like SAP](https://github.com/guettli/why-i-like-django-and-sap) Comparing two things, you can't compare.
+* [List of responsibilities for servers](https://github.com/guettli/server-responsibilities)
 
+# 2017
+* [Why I like PyCharm](https://github.com/guettli/why-i-like-pycharm)
+* [Join StackOverflow and SoftwareRecommendations](https://github.com/guettli/join-stackoverflow-and-softwarerecs)
+* [Email is the future](https://github.com/guettli/email-is-the-future) Don't belive the hype - email was, is and will be the most popular tool for digital human to human communication
 
-
-
+# 2015
+* [Missing Internet Specs](https://github.com/guettli/missing-internet-specs)
+* [Ten flying fingers](https://github.com/guettli/ten-flying-fingers) My goal is to keep the pointing fingers on "F" and "J" as much as possible
+* [Do not pollute users home directory](https://github.com/guettli/do-not-pollute-users-home-directory)
