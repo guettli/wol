@@ -7,6 +7,9 @@
 * [IUA: If unsure ask ... An alternative to explicit Responsiblities](https://github.com/guettli/IUA)
 * [Passive protocol of thoughts. A mindfulness exercise.](https://github.com/guettli/passive-protocol-of-thoughts)
 * [List of Feedback Loops](https://github.com/guettli/list-of-feedback-loops)
+* [List of WYSIWYG editors](https://github.com/guettli/wysiwyg)
+* [Generic Backend](https://github.com/guettli/generic-backend) No more coding, just config
+* [Intranet Search Cockpit](https://github.com/guettli/intranet-search-cockpit) 
 
 # 2019
 * [ReqDevOp at tbz-pariv.de](https://github.com/ChemnitzerWebDevs/slides/blob/master/2019/01-January/22-reqdevop-at-tbzpariv.md)
@@ -18,6 +21,7 @@
 
 * [Things which are not solved (Software Tools)](https://github.com/guettli/not-solved-yet)
 * [Programming Guidelines](https://github.com/guettli/programming-guidelines)
+* [Usability](https://github.com/guettli/usability) Screenshots and anecdotes where software made me think. Thinking hurts - I want to avoid it.
 
 
 
