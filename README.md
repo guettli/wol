@@ -22,6 +22,7 @@
 * [Sense of taste bias](https://github.com/guettli/sense-of-taste-bias)
 * [Let's fix JSON](https://github.com/guettli/lets-fix-json)
 * [YAML and Jinja for configuration management](https://github.com/guettli/yaml-and-Jinja-for-configuration-management)
+* [Python coding is fun. Video of workshop at Chemnitzer Linux Tage (in German)](https://www.youtube.com/watch?v=UDaRn_y3eo4)
 
 # 2018 
 
