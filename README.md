@@ -2,6 +2,7 @@
 
 
 # 2020
+* [Programming Guidelines](https://github.com/guettli/programming-guidelines) (Update)
 * [Second central List Effect](https://github.com/guettli/second-central-list-effect)
 * [Intranet Wiki Guidelines](https://github.com/guettli/intranet-wiki-guidelines)
 * [Desktop Tips and Tricks](https://github.com/guettli/desktop-tips-and-tricks)
