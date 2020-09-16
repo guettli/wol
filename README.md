@@ -1,7 +1,8 @@
-# WOL: Working out Loud
+# Thomas WOL: Working out Loud
 
 
 # 2020
+* [OKRs vs WOOP](https://github.com/guettli/okrs-vs-woop)
 * [Programming Guidelines](https://github.com/guettli/programming-guidelines) (Update)
 * [Second central List Effect](https://github.com/guettli/second-central-list-effect)
 * [Intranet Wiki Guidelines](https://github.com/guettli/intranet-wiki-guidelines)
