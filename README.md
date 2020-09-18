@@ -2,6 +2,7 @@
 
 
 # 2020
+* [Updated subx](https://github.com/guettli/subx)
 * [OKRs vs WOOP](https://github.com/guettli/okrs-vs-woop)
 * [Programming Guidelines](https://github.com/guettli/programming-guidelines) (Update)
 * [Second central List Effect](https://github.com/guettli/second-central-list-effect)
