@@ -21,6 +21,7 @@
 * [ReqDevOp at tbz-pariv.de](https://github.com/ChemnitzerWebDevs/slides/blob/master/2019/01-January/22-reqdevop-at-tbzpariv.md)
 * [Deadends of Information Technology](https://github.com/guettli/deadends-of-it)
 * [N days later self-management method](https://github.com/guettli/n-days-later-method)
+* [tbz-uploader](https://github.com/tbz-pariv/tbzuploader) Resilient http uploader (command line tool)
 * [Why I like Django and why I like SAP](https://github.com/guettli/why-i-like-django-and-sap)
 * [Leaving the autopilot](https://github.com/guettli/leaving-the-autopilot)
 * [Sense of taste bias](https://github.com/guettli/sense-of-taste-bias)
