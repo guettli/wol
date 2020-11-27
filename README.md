@@ -2,6 +2,7 @@
 
 
 # 2020
+* [Opinionated List of Frontend Frameworks](https://github.com/guettli/front-end-frameworks)
 * [List of html-over-the-wire libraries](https://github.com/guettli/html-over-the-wire)
 * [Updated subx](https://github.com/guettli/subx)
 * [OKRs vs WOOP](https://github.com/guettli/okrs-vs-woop)
