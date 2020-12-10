@@ -2,6 +2,7 @@
 
 
 # 2020
+* [Open Source Tools](https://github.com/guettli/open-source-tools)
 * [Scrum, My Point of View](https://github.com/guettli/scrum)
 * [List of SSGs (Static Site Generators)](https://github.com/guettli/static-site-generators)
 * [Opinionated List of ways to get a GUI for a DB](https://github.com/guettli/gui4db)
