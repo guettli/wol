@@ -3,6 +3,7 @@
 # 2021
 
 * [Alternative to a chair](https://github.com/guettli/alternative-to-a-chair)
+* [Zero to One: IT projects, which made it to the top](https://github.com/guettli/zero-to-one)
 * [Django Tips](https://github.com/guettli/django-tips)
 * [HTMX at DjangoCon EU 2021](https://docs.google.com/presentation/d/1Gx1UGVAgD2ALLOucsIm9myF5mDflbP06-M6_d-RdZAY/edit#slide=id.p)
 * [Headset](//github.com/guettli/headset)
