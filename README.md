@@ -1,5 +1,7 @@
 # Thomas WOL: Working out Loud
 
+You want to get news and updates? Then follow me via Twitter [@guettli](https://twitter.com/guettli)
+
 # 2021
 
 * [Alternative to a chair](https://github.com/guettli/alternative-to-a-chair)
