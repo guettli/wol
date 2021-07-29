@@ -1,6 +1,6 @@
 # Thomas WOL: Working out Loud
 
-You want to get news and updates? Then follow me via Twitter [@guettli](https://twitter.com/guettli)
+You want to get news and updates? Then follow me on Twitter [@guettli](https://twitter.com/guettli)
 
 # 2021
 
