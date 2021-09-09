@@ -10,6 +10,7 @@ You want to get news and updates? Then follow me on Twitter [@guettli](https://t
 * [HTMX at DjangoCon EU 2021](https://docs.google.com/presentation/d/1Gx1UGVAgD2ALLOucsIm9myF5mDflbP06-M6_d-RdZAY/edit#slide=id.p)
 * [Headset](//github.com/guettli/headset)
 * [Screen Recording](https://github.com/guettli/screen-recording) a talk for a virtual conference
+* [Programming Guidelines](https://github.com/guettli/programming-guidelines) (Update. This is slowly getting a mess. I need to create a new structure for all these notes).
 
 # 2020
 * [Open Source PaaS](https://github.com/guettli/open-source-paas/)
