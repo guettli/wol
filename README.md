@@ -4,6 +4,7 @@ You want to get news and updates? Then follow me on Twitter [@guettli](https://t
 
 # 2021
 
+* [Addicted to Google](https://github.com/guettli/addicted-to-google)
 * [Alternative to a chair](https://github.com/guettli/alternative-to-a-chair)
 * [Zero to One: IT projects, which made it to the top](https://github.com/guettli/zero-to-one)
 * [Django Tips](https://github.com/guettli/django-tips)
