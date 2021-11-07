@@ -4,7 +4,7 @@ You want to get news and updates? Then follow me on Twitter [@guettli](https://t
 
 # 2021
 
-* [#AppleBrowserBan](https://github.com/guettli/apple-browser-ban)
+* [Apple Browser Ban](https://github.com/guettli/apple-browser-ban)
 * [Microsoft 365 vs Google Workspace](https://github.com/guettli/Microsoft-365-vs-Google-Workspace)
 * [Addicted to Google](https://github.com/guettli/addicted-to-google)
 * [Alternative to a chair](https://github.com/guettli/alternative-to-a-chair)
