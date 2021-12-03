@@ -4,6 +4,7 @@ You want to get news and updates? Then follow me on Twitter [@guettli](https://t
 
 # 2021
 
+* [Why I don't like to create HTML with templates](https://github.com/guettli/why-i-dont-like-templates)
 * [Apple Browser Ban](https://github.com/guettli/apple-browser-ban)
 * [Microsoft 365 vs Google Workspace](https://github.com/guettli/Microsoft-365-vs-Google-Workspace)
 * [Addicted to Google](https://github.com/guettli/addicted-to-google)
