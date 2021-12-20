@@ -4,6 +4,7 @@ You want to get news and updates? Then follow me on Twitter [@guettli](https://t
 
 # 2021
 
+* [Django and Third Party JS](https://github.com/guettli/django-and-third-party-js)
 * [Why I don't like to create HTML with templates](https://github.com/guettli/why-i-dont-like-templates)
 * [Apple Browser Ban](https://github.com/guettli/apple-browser-ban)
 * [Microsoft 365 vs Google Workspace](https://github.com/guettli/Microsoft-365-vs-Google-Workspace)
