@@ -2,6 +2,10 @@
 
 You want to get news and updates? Then follow me on Twitter [@guettli](https://twitter.com/guettli)
 
+# 2022
+
+* [Python Tips](https://github.com/guettli/python-tips)
+
 # 2021
 
 * [Django and Third Party JS](https://github.com/guettli/django-and-third-party-js)
