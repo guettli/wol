@@ -4,7 +4,8 @@ You want to get news and updates? Then follow me on Twitter [@guettli](https://t
 
 # 2022
 
-* [Python Tips](https://github.com/guettli/python-tips)
+* [Python Tips](https://github.com/guettli/python-tips) (update)
+* [Git Tips](https://github.com/guettli/git-tips) (new)
 
 # 2021
 
