@@ -5,6 +5,7 @@ You want to get news and updates? Then follow me on Twitter [@guettli](https://t
 # 2022
 
 * [Python Tips](https://github.com/guettli/python-tips) (update)
+* [Django Tips](https://github.com/guettli/django-tips) (update)
 * [Git Tips](https://github.com/guettli/git-tips) (new)
 * [Deadends of IT](https://github.com/guettli/deadends-of-it) (update, now with a video of the talk at Chemnitzer-Linux-Tage (German))
 * [Python Introduction (German)](https://www.thomas-guettler.de/vortraege/python/einfuehrung.html) (update for Chemnitzer-Linux-Tage)
