@@ -4,6 +4,7 @@ You want to get news and updates? Then follow me on Twitter [@guettli](https://t
 
 # 2022
 
+* [Android Apps I like](//github.com/guettli/android-apps-i-like)
 * [Programming Language Wish List](https://github.com/guettli/programming-language-wish-list)
 * [Python Tips](https://github.com/guettli/python-tips) (update)
 * [Django Tips](https://github.com/guettli/django-tips) (update)
