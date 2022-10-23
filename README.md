@@ -4,6 +4,8 @@ You want to get news and updates? Then follow me on Twitter [@guettli](https://t
 
 # 2022
 
+* [Kubernetes, Golang & Cluster-API](https://docs.google.com/presentation/d/1VG0XtUK48aJ7FITC9A7vuiI9h8YLRBgqHq7oqxFiofY/edit#slide=id.g16c3fde7cd8_0_79) Slides
+* [go-kube-example](//github.com/guettli/go-kube-example) Using ko-build to put Go code into Kubernetes.
 * [Ten Flying Fingers (more comfortable touch typing)](https://github.com/guettli/ten-flying-fingers)
 * [Android Apps I like](//github.com/guettli/android-apps-i-like)
 * [Programming Language Wish List](https://github.com/guettli/programming-language-wish-list)
