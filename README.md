@@ -2,6 +2,10 @@
 
 You want to get news and updates? Then follow me on Twitter [@guettli](https://twitter.com/guettli)
 
+# 2023
+
+* [Golang and vscode](https://github.com/guettli/golang-and-vscode)
+
 # 2022
 
 * [Kubernetes, Golang & Cluster-API](https://docs.google.com/presentation/d/1VG0XtUK48aJ7FITC9A7vuiI9h8YLRBgqHq7oqxFiofY/edit#slide=id.g16c3fde7cd8_0_79) Slides
