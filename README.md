@@ -4,6 +4,7 @@ You want to get news and updates? Then follow me on Twitter [@guettli](https://t
 
 # 2023
 
+* [Grafana/Loki/Promtail Setup](https://github.com/guettli/local-grafana) for local ad-hoc log analyzing
 * [Golang and vscode](https://github.com/guettli/golang-and-vscode)
 
 # 2022
