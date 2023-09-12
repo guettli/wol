@@ -4,6 +4,8 @@ You want to get news and updates? Then follow me on Twitter [@guettli](https://t
 
 # 2023
 
+* [Kubernetes Controller Development](https://github.com/guettli/kubernetes-controller-development)
+* [check-conditions](https://github.com/guettli/check-conditions) Check all conditions of all resources of a Kubernetes cluster.
 * [Grafana/Loki/Promtail Setup](https://github.com/guettli/local-grafana) for local ad-hoc log analyzing
 * [Golang and vscode](https://github.com/guettli/golang-and-vscode)
 
