@@ -2,6 +2,10 @@
 
 You want to get news and updates? Then follow me on Twitter [@guettli](https://twitter.com/guettli)
 
+# 2024
+
+* [I love ads for useless apps](https://github.com/guettli/i-love-ads-for-useless-apps)
+
 # 2023
 
 * [Bad Naming Examples](https://github.com/guettli/bad-naming-examples/tree/main)
