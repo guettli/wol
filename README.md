@@ -4,6 +4,7 @@ You want to get news and updates? Then follow me on Twitter [@guettli](https://t
 
 # 2024
 
+* [Ten Flying Fingers (Kmonad)](https://github.com/guettli/ten-flying-fingers)
 * [I love ads for useless apps](https://github.com/guettli/i-love-ads-for-useless-apps)
 
 # 2023
