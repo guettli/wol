@@ -2,6 +2,10 @@
 
 You want to get news and updates? Then follow me on Twitter [@guettli](https://twitter.com/guettli)
 
+
+# 2026
+* [Switching to Nix](https://github.com/guettli/switching-to-nix)
+  
 # 2024
 
 * [Bash Strict Mode](https://github.com/guettli/bash-strict-mode)
