@@ -4,8 +4,13 @@ You want to get news and updates? Then follow me on Twitter [@guettli](https://t
 
 
 # 2026
+
 * [Switching to Nix](https://github.com/guettli/switching-to-nix)
-  
+
+# 2025
+
+* [Bash Strict Mode](https://github.com/guettli/bash-strict-mode) (Updated)
+
 # 2024
 
 * [Bash Strict Mode](https://github.com/guettli/bash-strict-mode)
