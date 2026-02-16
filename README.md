@@ -6,6 +6,7 @@ You want to get news and updates? Then follow me on Twitter [@guettli](https://t
 # 2026
 
 * [Switching to Nix](https://github.com/guettli/switching-to-nix)
+* [How I use Direnv](https://github.com/guettli/How-I-use-direnv/)
 
 # 2025
 
