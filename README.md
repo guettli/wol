@@ -7,6 +7,7 @@ You want to get news and updates? Then follow me on Twitter [@guettli](https://t
 
 * [Switching to Nix](https://github.com/guettli/switching-to-nix)
 * [How I use Direnv](https://github.com/guettli/How-I-use-direnv/)
+* [Taskfile is great](https://github.com/guettli/taskfile-is-great)
 
 # 2025
 
