@@ -8,6 +8,7 @@ You want to get news and updates? Then follow me on Twitter [@guettli](https://t
 * [Switching to Nix](https://github.com/guettli/switching-to-nix)
 * [How I use Direnv](https://github.com/guettli/How-I-use-direnv/)
 * [Taskfile is great](https://github.com/guettli/taskfile-is-great)
+* [Singletons, from Polytheism to Monotheism](https://github.com/guettli/singletons)
 
 # 2025
 
@@ -74,7 +75,7 @@ You want to get news and updates? Then follow me on Twitter [@guettli](https://t
 * [List of Feedback Loops](https://github.com/guettli/list-of-feedback-loops)
 * [List of WYSIWYG editors](https://github.com/guettli/wysiwyg)
 * [Generic Backend](https://github.com/guettli/generic-backend) No more coding, just config
-* [Intranet Search Cockpit](https://github.com/guettli/intranet-search-cockpit) 
+* [Intranet Search Cockpit](https://github.com/guettli/intranet-search-cockpit)
 * [Future focued Language](https://github.com/guettli/future-focused-language)
 * [Slow-boring-clear-fast](https://github.com/guettli/slow-boring-clear-fast) A simple Decision-making technique
 
@@ -92,7 +93,7 @@ You want to get news and updates? Then follow me on Twitter [@guettli](https://t
 * [YAML and Jinja for configuration management](https://github.com/guettli/yaml-and-Jinja-for-configuration-management)
 * [Python coding is fun. Video of workshop at Chemnitzer Linux Tage (in German)](https://www.youtube.com/watch?v=UDaRn_y3eo4)
 
-# 2018 
+# 2018
 
 * [Things which are not solved (Software Tools)](https://github.com/guettli/not-solved-yet)
 * [Programming Guidelines](https://github.com/guettli/programming-guidelines)
