@@ -9,6 +9,7 @@ You want to get news and updates? Then follow me on Twitter [@guettli](https://t
 * [How I use Direnv](https://github.com/guettli/How-I-use-direnv/)
 * [Taskfile is great](https://github.com/guettli/taskfile-is-great)
 * [Singletons, from Polytheism to Monotheism](https://github.com/guettli/singletons)
+* [From CI Secrets to SOPS](https://github.com/guettli/from-ci-secrets-to-sops)
 
 # 2025
 
