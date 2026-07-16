@@ -5,8 +5,7 @@ You want to get news and updates? Then follow me on Twitter [@guettli](https://t
 
 # 2026
 
-* [Switching to Nix](https://github.com/guettli/switching-to-nix)
-* [How I use Direnv](https://github.com/guettli/How-I-use-direnv/)
+* [From direnv and nix to mise. About installing per project tools](https://github.com/guettli/from-direnv-and-nix-to-mise)
 * [Taskfile is great](https://github.com/guettli/taskfile-is-great)
 * [Singletons, from Polytheism to Monotheism](https://github.com/guettli/singletons)
 * [From CI Secrets to SOPS](https://github.com/guettli/from-ci-secrets-to-sops)
